@@ -1,6 +1,6 @@
 #include"leetCode.h"
 
-
+using namespace std;
 int MoreThanHalfNum_Solution(vector<int> numbers)
 {
     if(numbers.empty())
