@@ -6,6 +6,7 @@
 ************************************************************************/
 
 #include<iostream>
+#include"leetCode.h"
 using namespace std;
 
 
